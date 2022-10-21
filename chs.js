@@ -224,7 +224,7 @@ var cnItems = {
     "Need some help?": "需要一些帮助？",
     "New things have been added since last time": "自上次以来已添加新内容",
     "No background = Locked": "无背景 = 锁定",
-    "No Styling": "没有造型",
+    "No Styling": "无样式",
     "No!": "不！",
     "Not in a challenge": "没有挑战",
     "Not in a Challenge": "不在挑战中",
